@@ -11,7 +11,7 @@ A ferramenta reconheceu algumas palavras, mas parece ter tido dificuldade em coo
 
 O Copilot lidou bem com a diagramação das páginas, compreendendo bem as quebras de coluna quando necessário. Mas não foi capaz de transcrever a página inteira.
 
-3. **_Scan_** de baixa qualidade
+3. **_Scan_ de baixa qualidade** 
 
 Diferente do resultado com a ferramenta de OCR do Azure, o Copilot transcreveu bem o documento. Algumas das palavras foram trocadas por outras de grafia semelhante, como "complex and reasonable judgements" em vez de "complex, reasoned judgements". É possível que as estratégias relacionadas à linguagem natural tenham contribuído na determinação das palavras coerentes com o contexto.
 
